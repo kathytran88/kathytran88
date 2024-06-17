@@ -1,5 +1,4 @@
-## Hi there 👋
-# Kathy-Tran-Anh-Ngan
+## Hi there 👋<br>
 ## About Me
 ✨ I am a curious data scientist with a strong interest in the finance industry<br>
 ✨ I aspire to utilize data analysis skills to solve financial problems<br>
