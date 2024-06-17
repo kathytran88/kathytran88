@@ -2,6 +2,7 @@
 ## About Me
 ✨ I am a curious data scientist with a strong interest in the finance industry<br>
 ✨ I aspire to utilize data analysis skills to solve financial problems<br>
+🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)
 
 ## List of projects
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
@@ -22,7 +23,7 @@
 - Machine Learning (linear regression, multiple linear regression, logistic regression)
 
 ### Web Programming
-with HTML, CSS, and Javascript, React JS
+With HTML, CSS, and Javascript, React JS
 
 ### Soft skills: 
-problem-solving, communication, teamwork, creativity, presentations, market research, data-driven decision-making
+Problem-solving, communication, teamwork, creativity, presentations, market research, data-driven decision-making
