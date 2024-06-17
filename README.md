@@ -17,7 +17,7 @@
 - Programming with R
 - Database management with SQL (MySQL and MySQL Workbench)
 - Data visualizations with Tableau and Microsoft Power BI
-- My data analysis process follows ETL (Extract, Transform, Load) 
+- Clean and organize raw data with ETL (Extract, Transform, Load) 
 - Spreadsheet and Microsoft Excel
 - Web scraping with BeautifulSoup and Pandas
 - Machine Learning (linear regression, multiple linear regression, logistic regression)
