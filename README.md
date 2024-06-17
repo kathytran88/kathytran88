@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Kathy-Tran-Anh-Ngan
+## About Me
+✨ I am a curious data scientist with a strong interest in the finance industry<br>
+✨ I aspire to utilize data analysis skills to solve financial problems<br>
 
-<!--
-**kathytran88/kathytran88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## List of projects
+Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
+StockMirror: Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
+ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
+SmartCycle: Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
 
-Here are some ideas to get you started:
+## My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
