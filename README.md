@@ -21,7 +21,8 @@
 - Web scraping with BeautifulSoup and Pandas
 - Machine Learning (linear regression, multiple linear regression, logistic regression)
 
-### Web Programming with HTML, CSS, and Javascript, React JS
+### Web Programming
+with HTML, CSS, and Javascript, React JS
 
 ### Soft skills: 
 problem-solving, communication, teamwork, creativity, presentations, market research, data-driven decision-making
