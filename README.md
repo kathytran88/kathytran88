@@ -12,12 +12,12 @@
 ## My skills
 ### My data science skills:
 - Programming with Python
-- Python libraries Pandas, Numpy, Matplotlib, Scipy, Scikit-learn
+- Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
 - Programming with R
-- Database management with SQL (MySQL and MySQL Workbench)
+- Database management with SQL
 - Data visualizations with Tableau and Microsoft Power BI
 - Clean and organize raw data with ETL (Extract, Transform, Load) 
-- Spreadsheet and Microsoft Excel
+- Microsoft Excel, Word, PowerPoint, Teams
 - Web scraping with BeautifulSoup and Pandas
 - Machine Learning (linear regression, multiple linear regression, logistic regression)
 
@@ -25,4 +25,4 @@
 With HTML, CSS, and Javascript, React JS
 
 ### Soft skills: 
-Problem-solving, communication, teamwork, creativity, presentations, market research, data-driven decision-making
+Problem-solving, communication, teamwork, creativity and innovation, presentations, market research, data-driven decision-making
