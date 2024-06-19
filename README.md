@@ -1,7 +1,6 @@
 ## Hi there 👋<br>
 ## About Me
-✨ I am a curious data scientist with a strong interest in the finance industry<br>
-✨ I aspire to utilize data analysis skills to solve financial problems<br>
+✨ I am a curious data scientist who aspires to utilize my data analysis and modeling skills to solve business problems<br>
 🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)
 
 ## List of projects
