@@ -19,7 +19,7 @@
 - Clean and organize raw data with ETL (Extract, Transform, Load) 
 - Microsoft Excel, Word, PowerPoint, Teams
 - Web scraping with BeautifulSoup
-- Machine Learning (linear regression, multiple linear regression, logistic regression)
+- Machine Learning (linear regression, multiple linear regression, logistic regression) with Python Scikit-learn, Tensorflow, and Pytorch
 
 ### Web Programming
 With HTML, CSS, and Javascript, React JS
