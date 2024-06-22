@@ -11,14 +11,14 @@
 
 ## My skills
 ### My data science skills:
-- Programming with Python
+- Programming with Python and R
 - Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
-- Programming with R
 - Database management with SQL
 - Data visualizations with Tableau and Microsoft Power BI
+- Design with Figma and Gimp
 - Clean and organize raw data with ETL (Extract, Transform, Load) 
 - Microsoft Excel, Word, PowerPoint, Teams
-- Web scraping with BeautifulSoup and Pandas
+- Web scraping with BeautifulSoup
 - Machine Learning (linear regression, multiple linear regression, logistic regression)
 
 ### Web Programming
