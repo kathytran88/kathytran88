@@ -10,7 +10,7 @@
 🗂 SmartCycle: Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
 
 ## My skills
-### My data science skills:
+### 📚 My data science skills:
 - Programming with Python and R
 - Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
 - Database management with SQL
@@ -21,8 +21,8 @@
 - Web scraping with BeautifulSoup
 - Machine Learning (linear regression, multiple linear regression, logistic regression) with Python Scikit-learn, Tensorflow, and Pytorch
 
-### Web Programming
-With HTML, CSS, and Javascript, React JS
+### 📚 Web Programming
+HTML, CSS, and Javascript, React JS
 
-### Soft skills: 
+### 📚 Soft skills: 
 Problem-solving, communication, teamwork, creativity and innovation, presentations, market research, data-driven decision-making
