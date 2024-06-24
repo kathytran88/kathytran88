@@ -14,12 +14,12 @@
 - Programming with Python and R
 - Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
 - Database management with SQL
-- Data visualizations with Tableau and Microsoft Power BI
+- Data visualizations with Tableau, Microsoft Power BI, Sigma Computing
 - Design with Figma and Gimp
 - Clean and organize raw data with ETL (Extract, Transform, Load) 
 - Microsoft Excel, Word, PowerPoint, Teams
 - Web scraping with BeautifulSoup
-- Machine Learning (linear regression, multiple linear regression, logistic regression) with Python Scikit-learn, Tensorflow, and Pytorch
+- Machine Learning (linear regression, multiple linear regression, logistic regression) with Python Scikit-learn
 
 ### 📚 Web Programming
 HTML, CSS, and Javascript, React JS
