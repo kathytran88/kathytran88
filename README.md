@@ -5,9 +5,10 @@
 
 ## List of projects
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
-🗂 StockMirror: Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
+🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
-🗂 SmartCycle: Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
+🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
+🗂 Churn and Fraud - KNN customer analysis: [Link to Github](https://github.com/kathytran88/churn_and_fraud)<br>
 
 ## My skills
 ### 📚 My data science skills:
