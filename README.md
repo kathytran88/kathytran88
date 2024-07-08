@@ -12,15 +12,20 @@
 
 ## My skills
 ### 📚 My data science skills:
+My data science skills:
 - Programming with Python and R
-- Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn
-- Database management with SQL
+- Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy
+- Machine Learning with linear regression, logistic regression, K nearest neighbors using Python Scikit-learn, Speech and Image recognition with PyTorch and TensorFlow
+- Database management with SQL, MongoDB
 - Data visualizations with Tableau, Microsoft Power BI, Sigma Computing
-- Design with Figma and Gimp
+- Design with Figma, Framer and Gimp
 - Clean and organize raw data with ETL (Extract, Transform, Load) 
-- Microsoft Excel, Word, PowerPoint, Teams
+- Microsoft Excel, PowerPoint, Word, Teams
 - Web scraping with BeautifulSoup
-- Machine Learning with linear regression, multiple linear regression, logistic regression, K nearest neighbors using Python Scikit-learn
+
+Web Programming with HTML, CSS, and Javascript, React JS
+
+Feel free to contact me: nat10027@nyu.edu
 
 ### 📚 Web Programming
 HTML, CSS, and Javascript, React JS
