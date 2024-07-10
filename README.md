@@ -9,6 +9,7 @@
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
 🗂 Churn and Fraud - KNN customer analysis: [Link to Github](https://github.com/kathytran88/churn_and_fraud)<br>
+🗂 Facial Emotion Recognition with Pytorch: [Link to Github](https://github.com/kathytran88/face_emotion_recognition)<br>
 
 ## My skills
 ### 📚 My data science skills:
