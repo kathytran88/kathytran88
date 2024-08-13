@@ -8,7 +8,7 @@
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
-🗂 Churn and Fraud - KNN customer analysis: [Link to Github](https://github.com/kathytran88/churn_and_fraud)<br>
+🗂 KNN Credit Risk Analysis: [Link to Github](https://github.com/kathytran88/credit-risk-analysis-knn)<br>
 🗂 Facial Emotion Recognition with Pytorch: [Link to Github](https://github.com/kathytran88/face_emotion_recognition)<br>
 
 ## My skills
