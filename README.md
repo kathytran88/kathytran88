@@ -4,7 +4,7 @@
 🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)
 
 ## List of projects
-🗂 Credit Risk Analysis - KNN, Decision Tree, Random Forest: [Link to Github](https://github.com/kathytran88/Credit_Risk_Analysis)
+🗂 Credit Risk Analysis - KNN, Decision Tree, Random Forest: [Link to Github](https://github.com/kathytran88/Credit_Risk_Analysis)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
