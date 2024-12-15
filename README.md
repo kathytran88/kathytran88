@@ -26,7 +26,7 @@ My data science skills:
 
 Web Programming with HTML, CSS, and Javascript, React JS
 
-Feel free to contact me: nat10027@nyu.edu
+Feel free to contact me: [kathy.tran@nyu.edu](kathy.tran@nyu.edu)
 
 ### 📚 Web Programming
 HTML, CSS, and Javascript, React JS
