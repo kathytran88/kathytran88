@@ -3,7 +3,7 @@
 ✨ I am a curious data scientist who aspires to utilize my data analysis and modeling skills to solve business problems<br>
 🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)<br>
 🕹 View My Project Portfolio: [My Portfolio](https://kathytran88.github.io/)<br>
-🕹 View my past hackathon achievements: [My Devpost]([https://www.linkedin.com/in/kathy-tran-834577278/](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+🕹 View my past hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
 
 ## List of projects
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
