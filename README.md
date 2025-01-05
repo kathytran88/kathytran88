@@ -6,6 +6,7 @@
 🕹 View my past hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
 
 ## List of projects
+🗂 Portfolio Optimization & Robo-advisor: [Link to Github](https://github.com/kathytran88/portfolio_optimization_and_robo_advisor)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
 🗂 Credit Risk Analysis - KNN, Decision Tree, Random Forest: [Link to Github](https://github.com/kathytran88/Credit_Risk_Analysis)<br>
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
