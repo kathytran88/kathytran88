@@ -3,12 +3,11 @@
 ✨ I am a curious data scientist who aspires to utilize my data analysis and modeling skills to solve business problems<br>
 🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)<br>
 🕹 View My Project Portfolio: [My Portfolio](https://kathytran88.github.io/)<br>
-🕹 View my past hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+🕹 View my hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
 
 ## List of projects
-🗂 Portfolio Optimization & Robo-advisor: [Link to Github](https://github.com/kathytran88/portfolio_optimization_and_robo_advisor)<br>
+🗂 Financial Analyzer: [Link to Github](https://github.com/kathytran88/financial_analyzer)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
-🗂 Credit Risk Analysis - KNN, Decision Tree, Random Forest: [Link to Github](https://github.com/kathytran88/Credit_Risk_Analysis)<br>
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
