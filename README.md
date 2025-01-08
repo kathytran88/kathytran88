@@ -6,12 +6,16 @@
 🕹 View my hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
 
 ## List of projects
+### Data Science
 🗂 Financial Analyzer: [Link to Github](https://github.com/kathytran88/financial_analyzer)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
-🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
-🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
+🗂 News to stock analyzer NLP: [Link to github](https://github.com/kathytran88/news_to_stocks_analyzer)<br>
 🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
 🗂 Facial Emotion Recognition with Pytorch: [Link to Github](https://github.com/kathytran88/face_emotion_recognition)<br>
+<br>
+### Web Development
+🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
+🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 
 ## My skills
 ### 📚 My data science skills:
