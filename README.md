@@ -1,18 +1,17 @@
 ## Hi there 👋<br>
 ## About Me
-my_dict = {
-  "name": "Kathy Tran",
+my_dict = {<br>
+  "name": "Kathy Tran",<br>
+  "Passion": "Data Science"<br>
   "Linkedin": [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/),<br>
   "Project Portfolio": [My Portfolio](https://kathytran88.github.io/),<br>
   "Hackathon Achievements": [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+  "Contact": [kathy.tran@nyu.edu](kathy.tran@nyu.edu)<br>
 }
 
-✨ I am a curious data scientist who aspires to utilize my data analysis and modeling skills to solve business problems<br>
-🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)<br>
-🕹 View My Project Portfolio: [My Portfolio](https://kathytran88.github.io/)<br>
-🕹 View my hackathon achievements: [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+✨ Hi. I am an aspiring data scientist who uses curiosity in numbers to solve business problems.<br>
 
-## List of projects
+## from kathy import projects
 ### Data Science
 🗂 Financial Analyzer: [Link to Github](https://github.com/kathytran88/financial_analyzer)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
@@ -24,7 +23,7 @@ my_dict = {
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 
-## My skills
+## from kathy import skills
 ### 📚 My data science skills:
 My data science skills:
 - Programming with Python and R
@@ -37,12 +36,8 @@ My data science skills:
 - Microsoft Excel, PowerPoint, Word, Teams
 - Web scraping with BeautifulSoup
 
-Web Programming with HTML, CSS, and Javascript, React JS
-
-Feel free to contact me: [kathy.tran@nyu.edu](kathy.tran@nyu.edu)
-
 ### 📚 Web Programming
-HTML, CSS, and Javascript, React JS
+Javascript, HTML & CSS
 
 ### 📚 Soft skills: 
-Problem-solving, communication, teamwork, creativity and innovation, presentations, market research, data-driven decision-making
+Problem-solving, communication, teamwork, creativity and innovation, presentations, market research, data-driven decision-making<br>
