@@ -1,5 +1,12 @@
 ## Hi there 👋<br>
 ## About Me
+my_dict = {
+  "name": "Kathy Tran",
+  "Linkedin": [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/),<br>
+  "Project Portfolio": [My Portfolio](https://kathytran88.github.io/),<br>
+  "Hackathon Achievements": [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+}
+
 ✨ I am a curious data scientist who aspires to utilize my data analysis and modeling skills to solve business problems<br>
 🕹 Connect with me on Linkedin: [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/)<br>
 🕹 View My Project Portfolio: [My Portfolio](https://kathytran88.github.io/)<br>
