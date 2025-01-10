@@ -32,7 +32,7 @@ my_dict = {<br>
 - Database management:
   <ul>
     <li>PostgreSQL, MySQL, MongoDB (NoSQL)</li>
-    <li>Database design with entity-relationship (ERDs) & logical diagrams<li>
+    <li>Database design with entity-relationship (ERDs) & logical diagrams</li>
     <li>Data normalization to reduce redundancy from 1NF to 3NF</li>
     <li>Cloud storage: AWS EC2, Amazon RDS, Google Cloud, Microsoft Azure</li>
   </ul>
