@@ -3,12 +3,12 @@
 ✨ Hi. I am an aspiring data scientist who uses curiosity in numbers to solve business problems.<br>
 
 my_dict = {<br>
-        "name": "Kathy Tran",<br>
-        "Passion": "Data Science"<br>
-        "Linkedin": [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/),<br>
-        "Project Portfolio": [My Portfolio](https://kathytran88.github.io/),<br>
-        "Hackathon Achievements": [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
-        "Contact": [kathy.tran@nyu.edu](kathy.tran@nyu.edu)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"name": "Kathy Tran",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Passion": "Data Science"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Linkedin": [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Project Portfolio": [My Portfolio](https://kathytran88.github.io/),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Hackathon Achievements": [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Contact": [kathy.tran@nyu.edu](kathy.tran@nyu.edu)<br>
 }
 
 ## from kathy import projects
