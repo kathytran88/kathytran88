@@ -1,6 +1,6 @@
 ## Hi there 👋<br>
 ## About Me
-✨ Hi. I am an aspiring data scientist who uses curiosity in numbers to solve business problems.<br>
+✨ Hi. I am an aspiring data scientist.<br>
 
 my_dict = {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"name": "Kathy Tran",<br>
