@@ -5,7 +5,6 @@
 my_dict = {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"name": "Kathy Tran",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Passion": "Data Science"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Resume": [My Resume](https://drive.google.com/drive/folders/1C45zDbBbrlwZgv_RgMZutM63-FJ7d5V0?usp=drive_link)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Linkedin": [My Linkedin](https://www.linkedin.com/in/kathy-tran-834577278/),<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Project Portfolio": [My Portfolio](https://kathytran88.github.io/),<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Hackathon Achievements": [My Devpost](https://devpost.com/kathyngananhtran?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
