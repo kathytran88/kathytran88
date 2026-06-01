@@ -17,9 +17,6 @@ my_dict = {<br>
 🗂 News to stock analyzer NLP: [Link to github](https://github.com/kathytran88/news_to_stocks_analyzer)<br>
 🗂 SmartCycle - Machine Learning Trash Classification: [Link to Github](https://github.com/SnazzyBeatle115/Smartcycle)<br>
 🗂 Facial Emotion Recognition with Pytorch: [Link to Github](https://github.com/kathytran88/face_emotion_recognition)<br>
-<br>
-### Web Development
-🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
-🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
+
 
 
