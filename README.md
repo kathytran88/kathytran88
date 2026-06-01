@@ -11,7 +11,6 @@ my_dict = {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Contact": [kathy.tran@nyu.edu](kathy.tran@nyu.edu)<br>
 }
 
-## from kathy import projects
 ### Data Science
 🗂 Financial Analyzer: [Link to Github](https://github.com/kathytran88/financial_analyzer)<br>
 🗂 Bank Term Deposit Customer Analysis: [Link to Github](https://github.com/kathytran88/bank_term_deposit_analysis)<br>
@@ -23,23 +22,4 @@ my_dict = {<br>
 🗂 StockMirror - Copy stock trades of top investors: [Link to Github](https://github.com/kathytran88/StockMirror)<br>
 🗂 ClimaCare: Real-time air quality notifier: [Link to Github](https://github.com/SewonKim0/ClimaCare)<br>
 
-## from kathy import skills
-### 📚 Data Science
-- Programming with Python, R, Javascript, Java
-- Data analysis with Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels
-- Machine Learning with Python Scikit-learn, Speech and Image recognition with PyTorch
-- Database management:
-  <ul>
-    <li>PostgreSQL, MySQL, MongoDB (NoSQL)</li>
-    <li>Database design with entity-relationship (ERDs) & logical diagrams</li>
-    <li>Data normalization to reduce redundancy from 1NF to 3NF</li>
-    <li>Cloud storage: AWS EC2, Amazon RDS, Google Cloud, Microsoft Azure</li>
-  </ul>
-- BI tools: Tableau, Power BI
-- Product Design with Figma, Framer and Gimp; Web design with HTML/CSS
-- Clean and organize raw data using ETL (Extract, Transform, Load) 
-- Microsoft Excel, PowerPoint, Word, Teams
-- Web scraping with Python BeautifulSoup
 
-### 📚 Soft skills: 
-Problem-solving, communication, teamwork, creativity and innovation, presentations, market research, data-driven decision-making<br>
